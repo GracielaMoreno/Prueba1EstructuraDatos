@@ -1,4 +1,4 @@
 # Prueba1EstructuraDatos
-
+fecha:25/11/2016
 integrantes:Graciela Moreno
-            Alexnadra Macas
+            Alexandra Macas
